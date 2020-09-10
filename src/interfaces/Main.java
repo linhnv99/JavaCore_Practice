@@ -4,6 +4,8 @@ public class Main {
 	public static void main(String[] args) {
 		A a = new C();
 		a.print();
+		a.sayHiA();
+		
 	}
 	/*
 	 * Interface 
@@ -19,4 +21,7 @@ public class Main {
 	 *  trước các phương thức của interface
 	 * 
 	 * */
+	
+	
+	
 }
