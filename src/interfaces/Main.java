@@ -17,7 +17,7 @@ public class Main {
 	 * 4. Một interface có thể kế thừa từ 1 interface khác
 	 * 5. Có thể đa kế thừa
 	 * 6. Có thể  lồng Interface 
-	 *  Chú y: Trong 1 interface chi có bien final và static. mặc định java sẽ gắn thêm public
+	 *  Chú ý: Trong 1 interface chi có bien final và static. mặc định java sẽ gắn thêm public
 	 *  trước các phương thức của interface
 	 * 
 	 * */
